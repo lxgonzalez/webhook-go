@@ -31,7 +31,7 @@ go run main.go
 }
 ```
 ### DEMO
-![image](https://github.com/user-attachments/assets/bc98afc2-2437-43d5-8c49-ad13b08f17f3)
+![image](https://github.com/user-attachments/assets/944b9221-35e8-4d47-872e-5e9a641cae27)
 
 ## Authors
 
