@@ -31,6 +31,7 @@ go run main.go
 }
 ```
 ### DEMO
+![image](https://github.com/user-attachments/assets/bc98afc2-2437-43d5-8c49-ad13b08f17f3)
 
 ## Authors
 
